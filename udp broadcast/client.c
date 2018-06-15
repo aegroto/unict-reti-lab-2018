@@ -2,6 +2,7 @@
 /**                  Sample UDP broadcast project              **/
 /**                         Client Side                        **/
 /** Full source code: https://github.com/aegroto/udp-broadcast **/
+/**                     Released under GPLV3                   **/
 /****************************************************************/
 
 #include <sys/socket.h>

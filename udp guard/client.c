@@ -2,6 +2,7 @@
 /**                Sample UDP guard project                **/
 /**                       Client Side                      **/
 /** Full source code: https://github.com/aegroto/udp-guard **/
+/**                  Released under GPLV3                  **/
 /************************************************************/
 
 
